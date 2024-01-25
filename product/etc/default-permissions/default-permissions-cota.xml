@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<exceptions>
+    <exception package="com.ironsource.appcloud.oobe.hutchison">
+        <permission name="android.permission.POST_NOTIFICATIONS" whitelisted="true" />
+    </exception>
+    <exception package="com.dti.bouyguestelecom">
+        <permission name="android.permission.POST_NOTIFICATIONS" whitelisted="true" />
+    </exception>
+
+
+</exceptions>

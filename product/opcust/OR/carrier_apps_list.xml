@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+    <package name="com.orange.update" type="0"/>
+    <package name="com.orange.aura.oobe" type="0"/>
+    <package name="com.amazon.appmanager" type="2"/>
+</packages>
