@@ -1,0 +1,8 @@
+on property:init.svc.vendor.ssgtzd=*
+    start vendor.miface-hal-1-0
+
+service vendor.miface-hal-1-0 /vendor/bin/mifaced@1.0
+    class late_start
+    user system
+    group system
+    disabled
